@@ -19,7 +19,6 @@ int main()
 	f5.print();
 	f6 = f1.divFraction(f2); //Divides the two fractions
 	f6.lowterms(); //Takes the result and reduces it
-	f6.print();
 	system("pause");
 	return 0;
 }
