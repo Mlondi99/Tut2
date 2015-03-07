@@ -25,5 +25,6 @@ public:
 	void fraction::lowterms();
 	void print();
 };
-fraction getFrac();
+
+fraction getFrac();// reads in from keyboard
 #endif
